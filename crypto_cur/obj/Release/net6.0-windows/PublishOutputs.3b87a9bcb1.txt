@@ -1,0 +1,12 @@
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\crypto_cur.exe
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\crypto_cur.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\crypto_cur.deps.json
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\crypto_cur.runtimeconfig.json
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\crypto_cur.pdb
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Binance.Net.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Bybit.Net.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\CryptoExchange.Net.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Kucoin.Net.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Крис\crypto_cur\crypto_cur\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
